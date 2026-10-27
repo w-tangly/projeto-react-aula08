@@ -113,7 +113,7 @@ Técnicas para alternar elementos da interface conforme o estado da aplicação:
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/pedrocampos-dev/projeto-react-aula08.git
+   git clone https://github.com/w-tangly/projeto-react-aula08.git
    cd projeto-react-aula08
    ```
 
